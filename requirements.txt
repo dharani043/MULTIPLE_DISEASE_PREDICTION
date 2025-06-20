@@ -4,4 +4,3 @@ streamlit==1.45.1
 streamlit-option-menu==0.4.0
 scikit-learn==1.6.1
 fpdf==1.7.2
-bytesio==0.0.2
