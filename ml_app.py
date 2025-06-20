@@ -1,7 +1,6 @@
-import os
+
 import pickle
 import streamlit as st
-import pandas as pd
 from streamlit_option_menu import option_menu
 from fpdf import FPDF
 from io import BytesIO
